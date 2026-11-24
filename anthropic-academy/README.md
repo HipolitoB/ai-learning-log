@@ -6,7 +6,7 @@ Structured notes, prompt design patterns, and small validation experiments from 
 
 | Course / Module | Focus | Status | Lab / Notes |
 | :--- | :--- | :---: | :--- |
-| AI Fluency: Framework and foundations (Lessons 1–4) | 4D Framework, Automation/Augmentation/Agency, LLM & Transformer fundamentals | In Progress (4/14) | [Lesson 1](ai-fluency/lesson-01-intro-ai-fluency.md) · [Lesson 2](ai-fluency/lesson-02-why-ai-fluency.md) · [Lesson 3](ai-fluency/lesson-03-4d-framework.md) · [Lesson 4](ai-fluency/lesson-04-generative-ai-fundamentals.md) · [Transformers](ai-fluency/transformer-architecture-notes.md) |
+| AI Fluency: Framework and foundations | 4D Framework, Automation/Augmentation/Agency, LLM & Transformer fundamentals | Completed (Badge `2026-11-24`) | [Lesson 1](ai-fluency/lesson-01-intro-ai-fluency.md) · [Lesson 2](ai-fluency/lesson-02-why-ai-fluency.md) · [Lesson 3](ai-fluency/lesson-03-4d-framework.md) · [Lesson 4](ai-fluency/lesson-04-generative-ai-fundamentals.md) · [Transformers](ai-fluency/transformer-architecture-notes.md) |
 | Claude 101 / Prompt Engineering | Clear instructions, XML tags, few-shot examples & verification | In Progress | `_notes pending_` |
 | Building with the Claude API | Structured outputs, JSON schemas & tool use | Planned | `_notes pending_` |
 
