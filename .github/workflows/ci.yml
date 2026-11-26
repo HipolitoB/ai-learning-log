@@ -26,5 +26,6 @@ jobs:
         run: |
           set -e
           python shipping-projects/container-demurrage-tracker/demurrage_tracker.py
+          python shipping-projects/voyage-tce-eu-ets-simulator/tce_eu_ets_simulator.py
           python elements-of-ai/building-ai/ch01-optimization/ex01_pineapple_routes.py
           python elements-of-ai/building-ai/ch01-optimization/ex02_pineapple_emissions.py
