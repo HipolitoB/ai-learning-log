@@ -6,9 +6,11 @@ Structured notes, prompt design patterns, and small validation experiments from 
 
 | Course / Module | Focus | Status | Lab / Notes |
 | :--- | :--- | :---: | :--- |
-| AI Fluency: Framework and foundations | 4D Framework, Automation/Augmentation/Agency, LLM & Transformer fundamentals | Completed (Badge `2026-11-24`) | [Lesson 1](ai-fluency/lesson-01-intro-ai-fluency.md) · [Lesson 2](ai-fluency/lesson-02-why-ai-fluency.md) · [Lesson 3](ai-fluency/lesson-03-4d-framework.md) · [Lesson 4](ai-fluency/lesson-04-generative-ai-fundamentals.md) · [Transformers](ai-fluency/transformer-architecture-notes.md) |
+| AI Fluency: Framework and foundations | 4D Framework, Automation/Augmentation/Agency, LLM & Transformer fundamentals | Completed (ID `66661851764b88f32535b613dd371f34`) | [Lesson 1](ai-fluency/lesson-01-intro-ai-fluency.md) · [Lesson 2](ai-fluency/lesson-02-why-ai-fluency.md) · [Lesson 3](ai-fluency/lesson-03-4d-framework.md) · [Lesson 4](ai-fluency/lesson-04-generative-ai-fundamentals.md) · [Transformers](ai-fluency/transformer-architecture-notes.md) |
+| AI Fluency for Small Businesses | Operational AI workflows, customer data, and risk/value trade-offs via 4Ds | Completed (ID `1eafe614b7fb90a973ec315193f9b52d`) | `_badge earned_` |
+| Introduction to Evals | LLM judges, calibration, traffic distribution, `unknown` verdicts & regression CI | Completed (ID `7690e4492bbc6a5f7a981676c9afead5`) | [Production Evals & LLM Judges](evals/production-evals-and-llm-judges.md) |
+| Building with the Claude API | Prompting, `usage` token accounting, tool use, RAG, agents & MCP | In Progress | `_notes pending_` |
 | Claude 101 / Prompt Engineering | Clear instructions, XML tags, few-shot examples & verification | In Progress | `_notes pending_` |
-| Building with the Claude API | Structured outputs, JSON schemas & tool use | Planned | `_notes pending_` |
 
 ## Experiment Checklist
 - Keep all sample trade documents (invoices, POs, charterparty recaps) **100% synthetic** before testing prompts or pushing examples here.
